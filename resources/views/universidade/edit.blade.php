@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="col p-4">
-                <button type="submit" class="btn btn-primary universidade-updating-submit">Salvar Edição</button>
+                <button type="submit" class=" btn btn-primary universidade-updating-submit">Salvar Edição</button>
             </div>
 
         </form>
