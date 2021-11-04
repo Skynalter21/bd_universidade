@@ -1,0 +1,1 @@
+import './universidade/index.js';
